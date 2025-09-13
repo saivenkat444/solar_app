@@ -1,0 +1,13 @@
+[
+  {
+    "device_id": "module_001",
+    "command": "switch",
+    "action": "on",
+    "status": "success",
+    "relay": "active",
+    "battery_voltage": 12.4,
+    "temperature": 29.5,
+    "alerts": [],
+    "timestamp": "2025-09-13T18:30:05Z"
+  }
+]
